@@ -1,0 +1,5 @@
+﻿  pigMain.cpp
+C:\Users\smith\Documents\VS Projects\pig\pigMain.cpp(56,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  player.cpp
+  Generating Code...
+  pig.vcxproj -> C:\Users\smith\Documents\VS Projects\pig\Debug\pig.exe

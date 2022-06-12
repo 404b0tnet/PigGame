@@ -1,0 +1,2 @@
+C:\Users\smith\Documents\VS Projects\pig\Debug\pig.exe
+C:\Users\smith\Documents\VS Projects\pig\Debug\pig.pdb
